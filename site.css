@@ -14,13 +14,17 @@ h1, h2, h3, h4 {
 }
 
 html {
-    margin-top: 50px;
-    margin-bottom: 50px;
-    margin-left: 50px;
-    margin-right: 50px;
-    background-color:aqua;
+    background-image: url("ssbuBanner.jpg");
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: 210%;
+    background-origin: padding-box;
 }
 
 body {
     background-color: white;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
