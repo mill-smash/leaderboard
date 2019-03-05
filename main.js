@@ -20,8 +20,8 @@ function add(name, wins, losses, mains) {
 }
    
 window.onload = (function() {
-    add('Jake H.', 3, 0, 'Mii Swordfighter, Mii Brawler, Young/Toon Link');
-    add('Nathan', 3, 0, 'Incineroar, Mr. G&W');
+    add('Jake H.', 4, 0, 'Mii Swordfighter, Mii Brawler, Young/Toon Link');
+    add('Nathan', 3, 1, 'Incineroar, Mr. G&W');
     add('Teegan', 2, 1, 'Jigglypuff');
     add('Leland', 2, 1, 'Roy');
     
