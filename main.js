@@ -20,16 +20,21 @@ function add(name, wins, losses, mains) {
 }
    
 window.onload = (function() {
-    add('Jacob', 2, 0, 'Mii Brawler');
+    add('Jake H.', 2, 0, 'Mii Brawler');
     add('Teegan', 2, 0, 'Jigglypuff');
+
     add('Deven', 1, 0, 'Piranha Plant');
     add('Leland', 1, 0, 'Roy');
     add('Nathan', 1, 0, 'Incineroar, Mr. G&W');
+
     add('Aiden', 0, 1, 'Kirby');
     add('Jimmy', 0, 1, 'Cloud');
     add('Tyler', 0, 1, 'Pikachu');
-    add('Johnathan', 0, 0, 'R.O.B, Mr. G&W');
-    add('Vincent', 0, 0, 'King Dedede');
-    add('Harry', 0, 0, 'Dark Pit');
+
     add('Andrew', 0, 0, 'Meta Knight');
+    add('Harry', 0, 0, 'Dark Pit');
+    add('Jake S.', 0, 0, 'Ness, Sonic');
+    add('Johnathan', 0, 0, 'R.O.B, Mr. G&W');
+    add('Michael', 0, 0, 'King Dedede');
+    add('Vincent', 0, 0, 'King Dedede');
 });
