@@ -3,12 +3,14 @@ table {
     font-size: 20px;
     background-color: white;
     overflow: hidden; 
+    border: 1px solid #dddddd;
+    border-collapse: collapse;
 }
 
 tr, th {
     text-align: center;
     line-height: 80px;
-    
+    border: 1px solid #dddddd;
 }
 
 h1, h2, h3, h4 { 

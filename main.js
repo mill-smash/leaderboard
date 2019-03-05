@@ -14,7 +14,7 @@ function add(name, wins, losses, mains) {
     wlCell.innerHTML = wins + "/" + losses;
     if (losses === 0 && wins === 0) {
         ratioCell.innerHTML = 0;
-    } else { ratioCell.innerHTML = (wins / (wins + losses)).toFixed(1)}
+    } else { ratioCell.innerHTML = (wins / (wins + losses)).toFixed(2)}
     gamesPlayedCell.innerHTML = wins + losses;
     mainsCell.innerHTML = mains;
 }
@@ -23,10 +23,9 @@ window.onload = (function() {
     add('Jake H.', 3, 0, 'Mii Swordfighter, Mii Brawler, Young/Toon Link');
     add('Nathan', 3, 0, 'Incineroar, Mr. G&W');
     add('Teegan', 2, 1, 'Jigglypuff');
+    add('Leland', 2, 1, 'Roy');
     
     add('Deven', 1, 1, 'Piranha Plant');
-    
-    add('Leland', 1, 0, 'Roy');
 
     add('Aiden', 0, 1, 'Kirby');
     add('Jimmy', 0, 1, 'Cloud');
