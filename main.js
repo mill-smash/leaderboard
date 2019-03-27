@@ -21,32 +21,31 @@ function add(name, wins, losses, mains) {
    
 window.onload = (function() {
     add('Jake H.', 7, 0, 'Mii Swordfighter, Mii Brawler, Young/Toon Link');
-    add('Leland', 5, 1, 'Roy');
+    add('Leland', 5, 1, 'Roy, Yoshi, Link');
+
+    add('Teegan', 4, 1, 'Jigglypuff');
 
     add('Nathan', 3, 2, 'Incineroar, Mr. G&W');
-
-    add('Teegan', 3, 1, 'Jigglypuff, Lucina');
     
     add('Danny', 2, 1, 'Little Mac');
 
-    add('Deven', 1, 2, 'Piranha Plant');
     add('Tyler', 1, 2, 'Pikachu');
 
-    add('Vincent', 2, 0, 'King Dedede, Kirby');
+    add('Vincent', 2, 0, 'King Dedede, Kirby, DK, Charizard');
 
     add('Aiden', 1, 1, 'Kirby, Bowser');
-    add('Thomas', 1, 1, 'Zelda');
-    
-    add('Ian', 1, 0, 'Bowser');
+    add('Thomas', 1, 1, 'Zelda'); 
+    add('Ian', 1, 1, 'Bowser');
+    add('Jake S.', 1, 1, 'Ness, Sonic');
+
     add('Joshua', 1, 0, 'No main');
 
     add('Jimmy', 0, 1, 'Cloud');
     add('George', 0, 1, 'Donkey Kong');
     add('Mudi', 0, 1, 'Jigglypuff');
-    add('Jake S.', 0, 1, 'Ness, Sonic');
     add('Harry', 0, 1, 'Dark Pit');
 
-    add('Ethan', 0, 2, 'Mario, Incineroar');
+    add('Ethan', 0, 2, 'Corrin');
 
     //add('Andrew', 0, 0, 'Meta Knight');
     //add('Johnathan', 0, 0, 'R.O.B, Mr. G&W');
