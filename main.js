@@ -38,14 +38,14 @@ window.onload = (function() {
     add('Ian', 1, 1, 'Bowser');
     add('Jake S.', 1, 1, 'Ness, Sonic');
 
+    add('Ethan', 0, 2, 'Corrin');
+
     add('Joshua', 1, 0, 'No main');
 
     add('Jimmy', 0, 1, 'Cloud');
     add('George', 0, 1, 'Donkey Kong');
     add('Mudi', 0, 1, 'Jigglypuff');
     add('Harry', 0, 1, 'Dark Pit');
-
-    add('Ethan', 0, 2, 'Corrin');
 
     //add('Andrew', 0, 0, 'Meta Knight');
     //add('Johnathan', 0, 0, 'R.O.B, Mr. G&W');
