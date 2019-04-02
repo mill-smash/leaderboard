@@ -27,11 +27,10 @@ window.onload = (function() {
 
     add('Teegan', 4, 2, 'Jigglypuff, Lucas');
 
-    add('Vincent', 4, 1, 'King Dedede, Kirby, DK, Charizard');
-
     add('Ian', 3, 2, 'Bowser');
     add('Deven', 2, 3, 'ROB');
 
+    add('Vincent', 4, 0, 'King Dedede, Kirby, DK, Charizard');
     add('Danny', 2, 2, 'Little Mac');
     add('Tyler', 1, 3, 'Pikachu');
 
